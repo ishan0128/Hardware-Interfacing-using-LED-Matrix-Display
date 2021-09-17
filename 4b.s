@@ -1,4 +1,4 @@
-/*Author - Wing Hoy. Last edited on Mar 18, 2021 */
+/*Template Author - Wing Hoy. Last edited on Mar 18, 2021 */
 /*-----------------DO NOT MODIFY--------*/
 .global Convert
 .global printf
@@ -11,7 +11,7 @@
 Convert:
 /*--------------------------------------*/
 
-/*-------Students write their code here ------------*/
+/*-------My code starts here ------------*/
 
 //I THINK this works, but I'm not sure if the output back to R0 from convert1 is correct
 //Update: All of this SHOULD be right. The value in R4 looks weird because it's the decimal equivalent
