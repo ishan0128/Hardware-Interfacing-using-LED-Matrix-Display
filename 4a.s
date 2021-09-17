@@ -1,4 +1,4 @@
-/*Author - Wing Hoy. Last edited on Mar 18, 2021 */
+/*Template Author - Wing Hoy. Last edited on Mar 18, 2021 */
 /*-----------------DO NOT MODIFY--------*/
 .global Welcomeprompt
 .global printf
@@ -12,7 +12,7 @@
 Welcomeprompt:
 /*--------------------------------------*/
 
-/*-------Students write their code here ------------*/
+/*-------My code starts here ------------*/
 
 //I think this works fine
 //If it doesn't check how user input is stored into memory and if that's stored to the right plcae in the stack
