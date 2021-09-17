@@ -1,4 +1,4 @@
-/*Author - Wing Hoy. Last edited on Mar 18, 2021 */
+/*Template Author - Wing Hoy. Last edited on Mar 18, 2021 */
 /*-----------------DO NOT MODIFY--------*/
 .global Display
 .global printf
@@ -16,7 +16,7 @@
 Display:
 /*--------------------------------------*/
 
-/*------- code starts here ------------*/
+/*-------My code starts here ------------*/
 //From main:
 //R4 on stack as pattern address
 
