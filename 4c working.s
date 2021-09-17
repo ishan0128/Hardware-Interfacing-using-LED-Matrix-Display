@@ -16,7 +16,7 @@
 Display:
 /*--------------------------------------*/
 
-/*-------Students write their code here ------------*/
+/*------- code starts here ------------*/
 //From main:
 //R4 on stack as pattern address
 
